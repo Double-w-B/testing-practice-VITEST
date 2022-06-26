@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice-vitest",
+  "version": "1.0.0",
+  "description": "created in purpose to practice testing skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Double-w-B/testing-practice-VITEST.git"
+  },
+  "author": "Wladyslaw Balandin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Double-w-B/testing-practice-VITEST/issues"
+  },
+  "homepage": "https://github.com/Double-w-B/testing-practice-VITEST#readme",
+  "devDependencies": {
+    "vitest": "^0.16.0"
+  }
+}
